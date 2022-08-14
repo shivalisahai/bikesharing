@@ -22,7 +22,7 @@ This analysis uses Citibike Ride data to analyse and create visualisations of av
 
 ### Results
 
-  - Link to Tableau Story - https://public.tableau.com/app/profile/shivali.sahai/viz/Citibike_Ride_Analysis_16604355530580/Story1?publish=yes
+  - [Link to Tableau Story](https://public.tableau.com/app/profile/shivali.sahai/viz/Citibike_Ride_Analysis_16604355530580/Story1?publish=yes)
 
   - Bike Checkout times 
     
