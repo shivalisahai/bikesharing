@@ -3,6 +3,11 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+#Exclude CSV data file
+
+201908-citibike-tripdata.csv
+201908-citibike-tripdata_dt.csv
+
 # C extensions
 *.so
 
